@@ -1,0 +1,6 @@
+mongo_dash
+uvicorn
+gunicorn
+uvloop
+httptools
+dnspython
